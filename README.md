@@ -1,51 +1,68 @@
-## Hey there! 👋
+<h1 align="center">Hi there! I'm Amy 👋</h1>
 
-Hi, I'm **Rahmi Amilia (Amy)** — a passionate learner in Information Systems 💻 I'm exploring Data Analytics, Machine Learning, Always excited to learn new things and share knowledge!
+<p align="center">
+  <em>A lifelong learner diving into the world of Data Analytics, Machine Learning, and Information Systems.</em>
+</p>
 
----
-
-### 🔍 Talking about Personal Stuffs:
-- 😎 I’m currently working on a cool price prediction project!
-- 🌱 I’m learning PostgreSQL, Python, and Data Visualization;
-- 💬 Ask me anything, I’ll be happy to help!
-- 📬 How to reach me: [@amy.__.liarahmi](https://www.instagram.com/amy.__.liarahmi/)
-
----
-
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<p align="center">
+  <img src="https://storyset.com/images/illustrations/data-analysis-pana.svg" width="400" alt="Data Analyst Illustration" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<details>
-  <summary>📈 Click to view</summary>
+### 💡 About Me
 
-  ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-</details>
-
----
-
-### 🎨 Illustration:
-<img src="https://storyset.com/images/illustrations/data-analysis-pana.svg" width="600"/>
-
-> Ilustrasi by [Storyset](https://storyset.com/illustration/data-analysis/pana)
+- 🎓 Information Systems student at Universitas Terbuka  
+- 📊 Passionate about data-driven insights & predictive analytics  
+- 🧠 Always learning — currently exploring SQL, Python, and Business Intelligence tools  
+- ✨ I love to turn raw data into meaningful stories  
+- 🌍 Based in Indonesia
 
 ---
 
-### 🎉 Achievements:
-- 🧠 Completed Sentiment Analysis and Image Classification Projects at Dicoding
-- 🚀 Currently working on Price Prediction Project for IDCamp 2024 Submission
+### 🚀 Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-> _"Code. Fail. Learn. Repeat. That’s how you grow."_ 💪  
-> — Amy 🌻
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧳 Featured Projects
+
+- 🧠 [Sentiment Analysis: The Game Caterers X SEVENTEEN](https://github.com/yourusername/sentiment-analysis-seventeen)  
+- 🖼️ [Image Classification: The Simpsons Characters](https://github.com/yourusername/simpsons-classifier)  
+- 📈 [Bitcoin Price Prediction (IDCamp 2024)](https://github.com/yourusername/bitcoin-price-prediction)
+
+---
+
+### 📬 Get In Touch
+
+- 🌐 [Portfolio Website (soon)]()
+- 📸 [@amymilia_ on Instagram](https://instagram.com/amymilia_)
+- 💼 [LinkedIn (optional)]()
+- 📧 Email: youremail@example.com
+
+---
+
+<p align="center">
+  <em>“Simplicity is the soul of efficiency.” – Austin Freeman</em><br/>
+  <strong>Thank you for visiting my profile! 💙</strong>
+</p>
