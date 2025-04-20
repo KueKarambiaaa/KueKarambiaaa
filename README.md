@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amy 👋</h1>
 
 <p align="center">
-  <img src="https://storyset.com/images/illustrations/data-analysis-pana.svg" width="300" alt="Data Analyst Illustration"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="300" alt="Data Analyst Illustration"/>
 </p>
 
 <p align="center">
