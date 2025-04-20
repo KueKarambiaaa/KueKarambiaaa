@@ -1,59 +1,74 @@
-<h1 align="center">Hi, I'm Rahmi Amilia 👋</h1>
+<h1 align="center">✨ Rahmi Amilia (Amy) ✨</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="300" alt="Data Analyst Illustration"/>
+  <img src="https://storyset.com/images/illustrations/data-analysis-pana.svg" width="300" alt="Data Analyst Illustration"/>
 </p>
 
 <p align="center">
-  <em>Information Systems student · Future Data Analyst · Lifelong Learner</em>
+  <em>🎓 Information Systems Student | 📊 Aspiring Data Analyst | 💡 Lifelong Learner</em>
 </p>
 
 ---
 
-### 🌱 About Me
+### 💫 About Me
 
-- 🎓 Currently studying at Universitas Terbuka majoring in Information Systems  
-- 📊 Passionate about data, analytics, and turning numbers into stories  
-- 🛠️ Exploring Python, SQL, Pandas, Scikit-Learn, and more  
-- 💬 Always open to collaboration and new challenges!
+Hi! I'm **Amy**, a curious learner and aspiring **data analyst** currently studying Information Systems at Universitas Terbuka.
+
+I love working with **data**, telling stories through **visualizations**, and making predictions using **machine learning**.  
+Currently, I'm exploring:
+
+- 📚 Python for Data Analysis  
+- 📈 Predictive Modeling with Scikit-Learn  
+- 🧠 Sentiment Analysis and Classification  
+- 🛠 SQL + Pandas for Data Wrangling
 
 ---
 
-### ⚙️ Tools & Technologies
+### 🚀 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
 
-### 📁 Projects
+### 📌 My Projects
 
-- 🧠 [Sentiment Analysis – SEVENTEEN YouTube Comments](https://github.com/KueKarambiaaa/sentiment-analysis-seventeen)
-- 🖼️ [Image Classification – Simpsons Characters](https://github.com/KueKarambiaaa/simpsons-classifier)
-- 📈 [Bitcoin Price Prediction – IDCamp 2024](https://github.com/KueKarambiaaa/bitcoin-price-prediction)
+- 🧠 [Sentiment Analysis: SEVENTEEN on YouTube](https://github.com/KueKarambiaaa/sentiment-analysis-seventeen)  
+  <sub><em>Natural language processing to understand fan sentiments on Kpop content.</em></sub>
+
+- 🖼️ [Image Classification: Simpsons Characters](https://github.com/KueKarambiaaa/simpsons-classifier)  
+  <sub><em>Built a classifier using Conv2D to recognize characters from The Simpsons.</em></sub>
+
+- 📈 [Bitcoin Price Prediction](https://github.com/KueKarambiaaa/bitcoin-price-prediction)  
+  <sub><em>Machine learning regression model for crypto price forecasting using historical data.</em></sub>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KueKarambiaaa&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KueKarambiaaa&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KueKarambiaaa&theme=tokyonight" />
 </p>
 
 ---
 
-### 📬 Let's Connect!
+### 📬 Let's Connect
 
-- 📸 Instagram: [@amymilia_](https://instagram.com/amymilia_)
-- ✉️ Email: *[tambahkan jika ingin]*  
-- 🌐 Portfolio Website: *[coming soon]*
+<p align="center">
+  <a href="https://instagram.com/amymilia_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <!-- Tambahkan jika ada -->
+  <!--<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+</p>
 
 ---
 
 <p align="center">
-  <em>"Keep learning. Keep building. Keep growing." 🌱</em>
+  <em>"Turn data into insight. Insight into action." 🚀</em>
 </p>
