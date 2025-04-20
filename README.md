@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Amy 👋</h1>
+<h1 align="center">Hi, I'm Rahmi Amilia 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="300" alt="Data Analyst Illustration"/>
+  <img src="https://storyset.com/images/illustrations/data-analysis-pana.svg" width="300" alt="Data Analyst Illustration"/>
 </p>
 
 <p align="center">
@@ -12,30 +12,47 @@
 
 ### 🌱 About Me
 
-- 🎓 Currently studying Information Systems at Universitas Terbuka  
-- 📊 Learning data analysis, visualization, and predictive modeling  
-- 🛠️ Tools I use: Python, SQL, Pandas, Scikit-Learn  
-- 💡 Curious about how data can help drive smart decisions  
-- 📬 Instagram: [@amymilia_](https://instagram.com/amymilia_)
+- 🎓 Studying Information Systems at Universitas Terbuka  
+- 📊 Passionate about data analysis, visualization & machine learning  
+- 🛠️ Currently learning Python, SQL, Pandas, and Scikit-Learn  
+- 🎯 Always curious about how data impacts the world  
+
+---
+
+### ⚙️ Tools & Tech
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+### 📁 Featured Projects
+
+- 🧠 [Sentiment Analysis – SEVENTEEN YouTube Comments](https://github.com/KueKarambiaaa/sentiment-analysis-seventeen)
+- 🖼️ [Image Classification – Simpsons Characters](https://github.com/KueKarambiaaa/simpsons-classifier)
+- 📈 [Bitcoin Price Prediction (IDCamp 2024)](https://github.com/KueKarambiaaa/bitcoin-price-prediction)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KueKarambiaaa&show_icons=true&theme=default" />
 </p>
 
 ---
 
-### ✨ Projects
+### 📬 Reach Me
 
-- 🧠 Sentiment Analysis: SEVENTEEN YouTube Comments  
-- 🖼️ Image Classification: Simpsons Characters  
-- 📈 Price Prediction with Bitcoin Dataset
+- 📸 Instagram: [@amymilia_](https://instagram.com/amymilia_)
+- 💼 LinkedIn: *[coming soon]*
 
 ---
 
 <p align="center">
-  <em>"Keep learning. Keep building." 🌱</em>
+  <em>"Keep learning. Keep building. Keep growing." 🌱</em>
 </p>
