@@ -35,7 +35,7 @@ Hi, I'm **Rahmi Amilia (Amy)** — a passionate learner in Information Systems �
 ---
 
 ### 🎨 Illustration:
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/namafile.png" width="600"/>
+<img src="C:\Users\Kaelan\Downloads\Data analysis-pana.svg" width="600"/>
 
 ---
 
