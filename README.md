@@ -12,14 +12,14 @@
 
 ### 🌱 About Me
 
-- 🎓 Studying Information Systems at Universitas Terbuka  
-- 📊 Passionate about data analysis, visualization & machine learning  
-- 🛠️ Currently learning Python, SQL, Pandas, and Scikit-Learn  
-- 🎯 Always curious about how data impacts the world  
+- 🎓 Currently studying at Universitas Terbuka majoring in Information Systems  
+- 📊 Passionate about data, analytics, and turning numbers into stories  
+- 🛠️ Exploring Python, SQL, Pandas, Scikit-Learn, and more  
+- 💬 Always open to collaboration and new challenges!
 
 ---
 
-### ⚙️ Tools & Tech
+### ⚙️ Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -30,11 +30,11 @@
 
 ---
 
-### 📁 Featured Projects
+### 📁 Projects
 
 - 🧠 [Sentiment Analysis – SEVENTEEN YouTube Comments](https://github.com/KueKarambiaaa/sentiment-analysis-seventeen)
 - 🖼️ [Image Classification – Simpsons Characters](https://github.com/KueKarambiaaa/simpsons-classifier)
-- 📈 [Bitcoin Price Prediction (IDCamp 2024)](https://github.com/KueKarambiaaa/bitcoin-price-prediction)
+- 📈 [Bitcoin Price Prediction – IDCamp 2024](https://github.com/KueKarambiaaa/bitcoin-price-prediction)
 
 ---
 
@@ -46,10 +46,11 @@
 
 ---
 
-### 📬 Reach Me
+### 📬 Let's Connect!
 
 - 📸 Instagram: [@amymilia_](https://instagram.com/amymilia_)
-- 💼 LinkedIn: *[coming soon]*
+- ✉️ Email: *[tambahkan jika ingin]*  
+- 🌐 Portfolio Website: *[coming soon]*
 
 ---
 
