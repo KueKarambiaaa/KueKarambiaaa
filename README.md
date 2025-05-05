@@ -1,7 +1,7 @@
 <h1 align="center">✨ Rahmi Amilia (Amy) ✨</h1>
 
 <p align="center">
-  <img src="https://storyset.com/images/illustrations/data-analysis-pana.svg" width="300" alt="Data Analyst Illustration"/>
+  <img src="https://media.licdn.com/dms/image/v2/C5612AQF3eOvu4WYr2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1527812408824?e=2147483647&v=beta&t=kN_IbPAACd-kFtc_d3DubO-HRMr979vNww1t3WkmLK0" width="300" alt="Data Analyst Illustration"/>
 </p>
 
 <p align="center">
